@@ -1,0 +1,13 @@
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.exe
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.deps.json
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.runtimeconfig.json
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.runtimeconfig.dev.json
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.dll
+D:\baitap\LopPointVaMoveablePoint\bin\Debug\netcoreapp3.1\LopPointVaMoveablePoint.pdb
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.csprojAssemblyReference.cache
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.AssemblyInfoInputs.cache
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.AssemblyInfo.cs
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.csproj.CoreCompileInputs.cache
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.dll
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.pdb
+D:\baitap\LopPointVaMoveablePoint\obj\Debug\netcoreapp3.1\LopPointVaMoveablePoint.genruntimeconfig.cache
